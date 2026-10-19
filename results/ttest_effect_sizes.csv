@@ -1,0 +1,13 @@
+Feature,t_stat,p_value,Cohens_d,Significant,Effect_size
+credit_private_pct_gdp,4.7876,0.0,0.4513,***,small
+credit_growth,4.6628,0.0,0.3706,***,small
+broad_money_pct_gdp,-4.1498,0.0,-0.2221,***,small
+money_growth,2.7932,0.0056,0.1768,**,negligible
+real_interest_rate,1.0165,0.3104,0.0731,n.s.,negligible
+gdp_growth,-2.4439,0.0153,-0.1913,*,negligible
+log_gdp_per_capita,2.5512,0.0114,0.2019,*,small
+inflation,4.489,0.0,0.3632,***,small
+current_account_pct_gdp,1.5684,0.118,0.0803,n.s.,negligible
+reserves_months_imports,-7.1768,0.0,-0.3038,***,small
+external_debt_pct_gni,0.5498,0.5829,0.0361,n.s.,negligible
+trade_pct_gdp,-2.9882,0.0031,-0.1799,**,negligible
