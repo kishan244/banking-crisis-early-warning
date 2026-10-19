@@ -1,0 +1,7 @@
+data/*.xlsx
+data/model_data_clean.csv
+data/governance_panel.csv
+venv/
+.venv/
+__pycache__/
+.DS_Store
